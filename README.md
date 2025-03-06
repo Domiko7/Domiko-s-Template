@@ -21,7 +21,7 @@
 To get started, clone this repository:
 
 ```bash
-git clone https://github.com/username/my-awesome-project.git
+git clone https://github.com/Domiko7/Domiko-s-Template
 ```
 
 ## Release Rules
