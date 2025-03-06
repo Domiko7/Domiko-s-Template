@@ -16,6 +16,14 @@
 
 ------
 
+## Installation
+
+To get started, clone this repository:
+
+```bash
+git clone https://github.com/username/my-awesome-project.git
+```
+
 ## Release Rules
 - If there is a bug in the new version that has not been listed, please submit the bug information to an ```issue```.
 
